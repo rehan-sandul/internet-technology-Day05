@@ -109,8 +109,17 @@ do {
 
 //---------functions---------
 
-function add (x,y){
+/* function add (x,y){
     return x + y;
 }
 let result = add(10,20);
-console.log(result);
+console.log(result); */
+
+//------arrays---------
+/* let numbers = [1, true , 3, 4, "saman"];
+
+for (let i = 0; i < numbers.length; i++) {
+    console.log(numbers[i]);
+} */
+
+//---------objects---------

@@ -5,8 +5,9 @@
 // -----browser alert-------
 //alert("hello world");
 
-//---------------------
-let age = 20;
+//-------add variable types---------
+
+/* let age = 20;
 let name = "saman";
 let isStudent = true;
 let Student = [];//array
@@ -18,4 +19,17 @@ console.log(typeof name);
 console.log(typeof isStudent);
 console.log(typeof Student);
 console.log(typeof customer);
-console.log(typeof salary);
+console.log(typeof salary); */
+
+//---------operators---------
+
+//---------arithmetic operators---------
+// + | - | * | / | %
+
+let a =10;
+let b = 5;
+let w = a + b;
+console.log(w);
+
+//---------comparison operators---------
+// == | === | != | !== | > | < | >= | <=

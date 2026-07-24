@@ -1,1 +1,3 @@
-console.log("hello world");
+/* console.log("hello world"); */
+let name ="saman";
+console.log(typeof name);

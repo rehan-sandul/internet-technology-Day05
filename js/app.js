@@ -66,7 +66,7 @@ if (x > y) {
 
 //---------switch statement---------
 
-let day = 3;
+/* let day = 3;
 switch (day) {
     case 1:
         console.log("Monday");
@@ -80,4 +80,29 @@ switch (day) {
     default:
         console.log("Invalid day");
         break;
-} 
+}  */
+
+//---------loops---------
+//for | while | do while
+
+//--for loop--
+
+/* for (let i = 0; i < 5; i++) {
+    console.log(i);
+} */
+
+//while loop
+
+/* let i = 0;
+while (i < 5) {
+    console.log(i);
+    i++;
+} */
+
+//do while loop
+
+/* let i = 0;
+do {
+    console.log(i);
+    i++;
+} while (i < 5); */

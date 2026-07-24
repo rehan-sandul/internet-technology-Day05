@@ -106,3 +106,11 @@ do {
     console.log(i);
     i++;
 } while (i < 5); */
+
+//---------functions---------
+
+function add (x,y){
+    return x + y;
+}
+let result = add(10,20);
+console.log(result);

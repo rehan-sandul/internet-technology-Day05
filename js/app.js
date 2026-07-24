@@ -26,10 +26,28 @@ console.log(typeof salary); */
 //---------arithmetic operators---------
 // + | - | * | / | %
 
-let a =10;
+/* let a =10;
 let b = 5;
 let w = a + b;
 console.log(w);
+ */
 
 //---------comparison operators---------
-// == | === | != | !== | > | < | >= | <=
+// == | != | !== | > | < | >= | <=
+//=== | >== | <== | !==
+
+/* let x =10;
+let y ="10";
+console.log(x == y);
+console.log(x === y); */
+
+//---------logical operators---------
+// && | || | !
+
+/* if (true && true) {
+    console.log("true");
+}else {
+    console.log("false");
+} */
+
+//

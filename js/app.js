@@ -52,8 +52,8 @@ console.log(x === y); */
 
 //---------conditional statements---------
 //if | else if | else
-    
-let x = 10;
+
+/* let x = 10;
 let y = 20;
 if (x > y) {
     console.log("x is greater than y");
@@ -62,3 +62,22 @@ if (x > y) {
 } else {
     console.log("x is equal to y");
 }
+ */
+
+//---------switch statement---------
+
+let day = 3;
+switch (day) {
+    case 1:
+        console.log("Monday");
+        break;
+    case 2:
+        console.log("Tuesday");
+        break;
+    case 3:
+        console.log("Wednesday");
+        break;
+    default:
+        console.log("Invalid day");
+        break;
+} 
